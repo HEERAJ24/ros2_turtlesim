@@ -1,6 +1,0 @@
-[console_scripts]
-battery_node = activity_002.battery_node:main
-led_panel = activity_002.led_panel:main
-num_count = activity_002.num_count:main
-num_pub = activity_002.num_pub:main
-
