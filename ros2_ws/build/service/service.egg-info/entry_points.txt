@@ -1,0 +1,5 @@
+[console_scripts]
+add2int_client_no_oops = service.add2int_client_no_oops:main
+add2intclient = service.add2intclient:main
+add_2_int = service.add_2_int:main
+

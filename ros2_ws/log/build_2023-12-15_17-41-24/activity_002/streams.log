@@ -1,0 +1,18 @@
+[2.462s] Invoking command in '/home/hee/ros2_ws/build/activity_002': PYTHONPATH=/home/hee/ros2_ws/build/activity_002/prefix_override:/home/hee/ros2_ws/install/activity_002/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/hee/ros2_ws/build/activity_002/build --no-deps install_data
+[2.894s] running develop
+[3.155s] running egg_info
+[3.155s] writing activity_002.egg-info/PKG-INFO
+[3.155s] writing dependency_links to activity_002.egg-info/dependency_links.txt
+[3.155s] writing entry points to activity_002.egg-info/entry_points.txt
+[3.155s] writing requirements to activity_002.egg-info/requires.txt
+[3.156s] writing top-level names to activity_002.egg-info/top_level.txt
+[3.158s] reading manifest file 'activity_002.egg-info/SOURCES.txt'
+[3.159s] writing manifest file 'activity_002.egg-info/SOURCES.txt'
+[3.161s] running build_ext
+[3.161s] Creating /home/hee/ros2_ws/install/activity_002/lib/python3.10/site-packages/activity-002.egg-link (link to .)
+[3.162s] Installing num_count script to /home/hee/ros2_ws/install/activity_002/lib/activity_002
+[3.162s] Installing num_pub script to /home/hee/ros2_ws/install/activity_002/lib/activity_002
+[3.163s] 
+[3.163s] Installed /home/hee/ros2_ws/build/activity_002
+[3.163s] running install_data
+[3.213s] Invoked command in '/home/hee/ros2_ws/build/activity_002' returned '0': PYTHONPATH=/home/hee/ros2_ws/build/activity_002/prefix_override:/home/hee/ros2_ws/install/activity_002/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/hee/ros2_ws/build/activity_002/build --no-deps install_data

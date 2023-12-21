@@ -1,0 +1,51 @@
+[0.111s] Invoking command in '/home/hee/ros2_ws/build/msg_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/build/msg_interface -- -j8 -l8
+[0.145s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.371s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.374s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.378s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.425s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.725s] [31mCMake Error at /opt/ros/humble/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake:59 (message):
+[0.726s]   execute_process(/usr/bin/python3.10 -m rosidl_adapter --package-name
+[0.726s]   msg_interface --arguments-file
+[0.726s]   /home/hee/ros2_ws/build/msg_interface/rosidl_adapter__arguments__msg_interface.json
+[0.726s]   --output-dir
+[0.726s]   /home/hee/ros2_ws/build/msg_interface/rosidl_adapter/msg_interface
+[0.726s]   --output-file
+[0.726s]   /home/hee/ros2_ws/build/msg_interface/rosidl_adapter/msg_interface.idls)
+[0.726s]   returned error code 1:
+[0.726s] 
+[0.726s]   Error processing 'int64 Leda' of 'msg_interface/LedStates': ''Leda' is an
+[0.727s]   invalid field name.  It should have the pattern
+[0.727s]   '^(?!.*__)(?!.*_$)[a-z][a-z0-9_]*$''
+[0.727s] 
+[0.727s]   Traceback (most recent call last):
+[0.727s] 
+[0.727s]     File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+[0.727s]       return _run_code(code, main_globals, None,
+[0.727s]     File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+[0.727s]       exec(code, run_globals)
+[0.727s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__main__.py", line 19, in <module>
+[0.727s]       sys.exit(main())
+[0.728s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/main.py", line 53, in main
+[0.728s]       abs_idl_file = convert_to_idl(
+[0.728s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/__init__.py", line 19, in convert_to_idl
+[0.728s]       return convert_msg_to_idl(
+[0.728s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/msg/__init__.py", line 28, in convert_msg_to_idl
+[0.728s]       msg = parse_message_string(package_name, input_file.stem, content)
+[0.728s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/parser.py", line 519, in parse_message_string
+[0.728s]       fields.append(Field(
+[0.728s]     File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_adapter/parser.py", line 354, in __init__
+[0.728s]       raise NameError(
+[0.728s] 
+[0.728s]   NameError: 'Leda' is an invalid field name.  It should have the pattern
+[0.729s]   '^(?!.*__)(?!.*_$)[a-z][a-z0-9_]*$'
+[0.729s] 
+[0.729s] Call Stack (most recent call first):
+[0.729s]   /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:130 (rosidl_adapt_interfaces)
+[0.729s]   CMakeLists.txt:12 (rosidl_generate_interfaces)
+[0.729s] 
+[0.729s] [0m
+[0.729s] -- Configuring incomplete, errors occurred!
+[0.729s] See also "/home/hee/ros2_ws/build/msg_interface/CMakeFiles/CMakeOutput.log".
+[0.733s] gmake: *** [Makefile:747: cmake_check_build_system] Error 1
+[0.736s] Invoked command in '/home/hee/ros2_ws/build/msg_interface' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/build/msg_interface -- -j8 -l8

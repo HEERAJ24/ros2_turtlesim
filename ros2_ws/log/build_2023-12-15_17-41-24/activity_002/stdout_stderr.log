@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing activity_002.egg-info/PKG-INFO
+writing dependency_links to activity_002.egg-info/dependency_links.txt
+writing entry points to activity_002.egg-info/entry_points.txt
+writing requirements to activity_002.egg-info/requires.txt
+writing top-level names to activity_002.egg-info/top_level.txt
+reading manifest file 'activity_002.egg-info/SOURCES.txt'
+writing manifest file 'activity_002.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hee/ros2_ws/install/activity_002/lib/python3.10/site-packages/activity-002.egg-link (link to .)
+Installing num_count script to /home/hee/ros2_ws/install/activity_002/lib/activity_002
+Installing num_pub script to /home/hee/ros2_ws/install/activity_002/lib/activity_002
+
+Installed /home/hee/ros2_ws/build/activity_002
+running install_data

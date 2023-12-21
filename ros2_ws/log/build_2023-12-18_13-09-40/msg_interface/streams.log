@@ -1,0 +1,18 @@
+[0.111s] Invoking command in '/home/hee/ros2_ws/build/msg_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/build/msg_interface -- -j8 -l8
+[0.146s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.368s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.370s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.375s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.421s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.466s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.466s]   rosidl_generate_interfaces() the passed file 'msg/SetLed.msg' doesn't exist
+[0.466s]   relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.466s]   '/home/hee/ros2_ws/src/msg_interface'
+[0.466s] Call Stack (most recent call first):
+[0.466s]   CMakeLists.txt:12 (rosidl_generate_interfaces)
+[0.466s] 
+[0.466s] [0m
+[0.466s] -- Configuring incomplete, errors occurred!
+[0.467s] See also "/home/hee/ros2_ws/build/msg_interface/CMakeFiles/CMakeOutput.log".
+[0.470s] gmake: *** [Makefile:747: cmake_check_build_system] Error 1
+[0.473s] Invoked command in '/home/hee/ros2_ws/build/msg_interface' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/build/msg_interface -- -j8 -l8

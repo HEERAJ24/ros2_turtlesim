@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating Activity_002.egg-info
+writing Activity_002.egg-info/PKG-INFO
+writing dependency_links to Activity_002.egg-info/dependency_links.txt
+writing entry points to Activity_002.egg-info/entry_points.txt
+writing requirements to Activity_002.egg-info/requires.txt
+writing top-level names to Activity_002.egg-info/top_level.txt
+writing manifest file 'Activity_002.egg-info/SOURCES.txt'
+reading manifest file 'Activity_002.egg-info/SOURCES.txt'
+writing manifest file 'Activity_002.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hee/ros2_ws/install/Activity_002/lib/python3.10/site-packages/Activity-002.egg-link (link to .)
+Installing number_publisher script to /home/hee/ros2_ws/install/Activity_002/lib/Activity_002
+
+Installed /home/hee/ros2_ws/build/Activity_002
+running install_data
+creating /home/hee/ros2_ws/install/Activity_002/share/ament_index
+creating /home/hee/ros2_ws/install/Activity_002/share/ament_index/resource_index
+creating /home/hee/ros2_ws/install/Activity_002/share/ament_index/resource_index/packages
+copying resource/Activity_002 -> /home/hee/ros2_ws/install/Activity_002/share/ament_index/resource_index/packages
+copying package.xml -> /home/hee/ros2_ws/install/Activity_002/share/Activity_002

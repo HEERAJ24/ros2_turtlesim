@@ -1,0 +1,42 @@
+[0.117s] Invoking command in '/home/hee/ros2_ws/build/turtlesim_project_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/turtlesim_project:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake /home/hee/ros2_ws/src/turtlesim_project_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hee/ros2_ws/install/turtlesim_project_bringup
+[0.200s] -- The C compiler identification is GNU 11.4.0
+[0.283s] -- The CXX compiler identification is GNU 11.4.0
+[0.293s] -- Detecting C compiler ABI info
+[0.394s] -- Detecting C compiler ABI info - done
+[0.405s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.405s] -- Detecting C compile features
+[0.406s] -- Detecting C compile features - done
+[0.410s] -- Detecting CXX compiler ABI info
+[0.527s] -- Detecting CXX compiler ABI info - done
+[0.539s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.539s] -- Detecting CXX compile features
+[0.540s] -- Detecting CXX compile features - done
+[0.545s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.827s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.925s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.076s] -- Configuring done
+[1.080s] -- Generating done
+[1.081s] -- Build files have been written to: /home/hee/ros2_ws/build/turtlesim_project_bringup
+[1.087s] Invoked command in '/home/hee/ros2_ws/build/turtlesim_project_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/turtlesim_project:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake /home/hee/ros2_ws/src/turtlesim_project_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hee/ros2_ws/install/turtlesim_project_bringup
+[1.090s] Invoking command in '/home/hee/ros2_ws/build/turtlesim_project_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/turtlesim_project:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/build/turtlesim_project_bringup -- -j8 -l8
+[1.149s] Invoked command in '/home/hee/ros2_ws/build/turtlesim_project_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/turtlesim_project:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/build/turtlesim_project_bringup -- -j8 -l8
+[1.197s] Invoking command in '/home/hee/ros2_ws/build/turtlesim_project_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/turtlesim_project:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --install /home/hee/ros2_ws/build/turtlesim_project_bringup
+[1.208s] -- Install configuration: ""
+[1.209s] -- Execute custom install script
+[1.210s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/launch/turtlesim_project.launch.py
+[1.223s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/ament_index/resource_index/package_run_dependencies/turtlesim_project_bringup
+[1.236s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/ament_index/resource_index/parent_prefix_path/turtlesim_project_bringup
+[1.250s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/environment/ament_prefix_path.sh
+[1.263s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/environment/ament_prefix_path.dsv
+[1.276s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/environment/path.sh
+[1.289s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/environment/path.dsv
+[1.302s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/local_setup.bash
+[1.315s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/local_setup.sh
+[1.329s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/local_setup.zsh
+[1.342s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/local_setup.dsv
+[1.355s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/package.dsv
+[1.368s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/ament_index/resource_index/packages/turtlesim_project_bringup
+[1.383s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/cmake/turtlesim_project_bringupConfig.cmake
+[1.398s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/cmake/turtlesim_project_bringupConfig-version.cmake
+[1.413s] -- Symlinking: /home/hee/ros2_ws/install/turtlesim_project_bringup/share/turtlesim_project_bringup/package.xml
+[1.429s] Invoked command in '/home/hee/ros2_ws/build/turtlesim_project_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/hee/ros2_ws/install/turtlesim_project:/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --install /home/hee/ros2_ws/build/turtlesim_project_bringup
