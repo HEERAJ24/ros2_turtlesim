@@ -1,0 +1,23 @@
+[1.171s] Invoking command in '/home/hee/ros2_ws/src/build/turtlesim_project': PYTHONPATH=/home/hee/ros2_ws/src/build/turtlesim_project/prefix_override:/home/hee/ros2_ws/src/install/turtlesim_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/hee/ros2_ws/src/build/turtlesim_project/build --no-deps install_data
+[1.630s] running develop
+[1.894s] running egg_info
+[1.894s] creating turtlesim_project.egg-info
+[1.894s] writing turtlesim_project.egg-info/PKG-INFO
+[1.895s] writing dependency_links to turtlesim_project.egg-info/dependency_links.txt
+[1.895s] writing entry points to turtlesim_project.egg-info/entry_points.txt
+[1.895s] writing requirements to turtlesim_project.egg-info/requires.txt
+[1.895s] writing top-level names to turtlesim_project.egg-info/top_level.txt
+[1.895s] writing manifest file 'turtlesim_project.egg-info/SOURCES.txt'
+[1.897s] reading manifest file 'turtlesim_project.egg-info/SOURCES.txt'
+[1.898s] writing manifest file 'turtlesim_project.egg-info/SOURCES.txt'
+[1.900s] running build_ext
+[1.900s] Creating /home/hee/ros2_ws/src/install/turtlesim_project/lib/python3.10/site-packages/turtlesim-project.egg-link (link to .)
+[1.901s] 
+[1.901s] Installed /home/hee/ros2_ws/src/build/turtlesim_project
+[1.901s] running install_data
+[1.901s] creating /home/hee/ros2_ws/src/install/turtlesim_project/share/ament_index
+[1.902s] creating /home/hee/ros2_ws/src/install/turtlesim_project/share/ament_index/resource_index
+[1.902s] creating /home/hee/ros2_ws/src/install/turtlesim_project/share/ament_index/resource_index/packages
+[1.902s] copying resource/turtlesim_project -> /home/hee/ros2_ws/src/install/turtlesim_project/share/ament_index/resource_index/packages
+[1.902s] copying package.xml -> /home/hee/ros2_ws/src/install/turtlesim_project/share/turtlesim_project
+[1.940s] Invoked command in '/home/hee/ros2_ws/src/build/turtlesim_project' returned '0': PYTHONPATH=/home/hee/ros2_ws/src/build/turtlesim_project/prefix_override:/home/hee/ros2_ws/src/install/turtlesim_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/hee/ros2_ws/src/build/turtlesim_project/build --no-deps install_data

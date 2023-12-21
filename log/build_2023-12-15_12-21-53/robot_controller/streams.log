@@ -1,0 +1,24 @@
+[1.908s] Invoking command in '/home/hee/ros2_ws/src/robot_controller': PYTHONPATH=/home/hee/ros2_ws/src/build/robot_controller/prefix_override:/home/hee/ros2_ws/src/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_controller build --build-base /home/hee/ros2_ws/src/build/robot_controller/build install --record /home/hee/ros2_ws/src/build/robot_controller/install.log --single-version-externally-managed
+[2.320s] running egg_info
+[2.322s] writing ../build/robot_controller/robot_controller.egg-info/PKG-INFO
+[2.322s] writing dependency_links to ../build/robot_controller/robot_controller.egg-info/dependency_links.txt
+[2.322s] writing entry points to ../build/robot_controller/robot_controller.egg-info/entry_points.txt
+[2.322s] writing requirements to ../build/robot_controller/robot_controller.egg-info/requires.txt
+[2.323s] writing top-level names to ../build/robot_controller/robot_controller.egg-info/top_level.txt
+[2.326s] reading manifest file '../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[2.328s] writing manifest file '../build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[2.328s] running build
+[2.328s] running build_py
+[2.329s] running install
+[2.330s] running install_lib
+[2.332s] running install_data
+[2.333s] running install_egg_info
+[2.336s] removing '/home/hee/ros2_ws/src/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.337s] Copying ../build/robot_controller/robot_controller.egg-info to /home/hee/ros2_ws/src/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info
+[2.339s] running install_scripts
+[2.375s] Installing draw_circle script to /home/hee/ros2_ws/src/install/robot_controller/lib/robot_controller
+[2.375s] Installing pose_sub script to /home/hee/ros2_ws/src/install/robot_controller/lib/robot_controller
+[2.375s] Installing pub_sub script to /home/hee/ros2_ws/src/install/robot_controller/lib/robot_controller
+[2.375s] Installing test_node script to /home/hee/ros2_ws/src/install/robot_controller/lib/robot_controller
+[2.376s] writing list of installed files to '/home/hee/ros2_ws/src/build/robot_controller/install.log'
+[2.421s] Invoked command in '/home/hee/ros2_ws/src/robot_controller' returned '0': PYTHONPATH=/home/hee/ros2_ws/src/build/robot_controller/prefix_override:/home/hee/ros2_ws/src/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/robot_controller build --build-base /home/hee/ros2_ws/src/build/robot_controller/build install --record /home/hee/ros2_ws/src/build/robot_controller/install.log --single-version-externally-managed

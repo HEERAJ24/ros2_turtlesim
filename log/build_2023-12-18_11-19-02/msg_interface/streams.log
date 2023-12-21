@@ -1,0 +1,42 @@
+[0.123s] Invoking command in '/home/hee/ros2_ws/src/build/msg_interface': CMAKE_PREFIX_PATH=/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake /home/hee/ros2_ws/src/msg_interface -DCMAKE_INSTALL_PREFIX=/home/hee/ros2_ws/src/install/msg_interface
+[0.300s] -- The C compiler identification is GNU 11.4.0
+[0.454s] -- The CXX compiler identification is GNU 11.4.0
+[0.468s] -- Detecting C compiler ABI info
+[0.578s] -- Detecting C compiler ABI info - done
+[0.590s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.590s] -- Detecting C compile features
+[0.591s] -- Detecting C compile features - done
+[0.596s] -- Detecting CXX compiler ABI info
+[0.721s] -- Detecting CXX compiler ABI info - done
+[0.735s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.735s] -- Detecting CXX compile features
+[0.736s] -- Detecting CXX compile features - done
+[0.743s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.043s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.202s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.335s] -- Added test 'lint_cmake' to check CMake code style
+[1.337s] -- Added test 'xmllint' to check XML markup files
+[1.339s] -- Configuring done
+[1.344s] -- Generating done
+[1.345s] -- Build files have been written to: /home/hee/ros2_ws/src/build/msg_interface
+[1.353s] Invoked command in '/home/hee/ros2_ws/src/build/msg_interface' returned '0': CMAKE_PREFIX_PATH=/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake /home/hee/ros2_ws/src/msg_interface -DCMAKE_INSTALL_PREFIX=/home/hee/ros2_ws/src/install/msg_interface
+[1.357s] Invoking command in '/home/hee/ros2_ws/src/build/msg_interface': CMAKE_PREFIX_PATH=/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/src/build/msg_interface -- -j8 -l8
+[1.414s] Invoked command in '/home/hee/ros2_ws/src/build/msg_interface' returned '0': CMAKE_PREFIX_PATH=/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --build /home/hee/ros2_ws/src/build/msg_interface -- -j8 -l8
+[1.462s] Invoking command in '/home/hee/ros2_ws/src/build/msg_interface': CMAKE_PREFIX_PATH=/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --install /home/hee/ros2_ws/src/build/msg_interface
+[1.474s] -- Install configuration: ""
+[1.474s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/ament_index/resource_index/package_run_dependencies/msg_interface
+[1.475s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/ament_index/resource_index/parent_prefix_path/msg_interface
+[1.475s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/environment/ament_prefix_path.sh
+[1.475s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/environment/ament_prefix_path.dsv
+[1.476s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/environment/path.sh
+[1.476s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/environment/path.dsv
+[1.476s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/local_setup.bash
+[1.476s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/local_setup.sh
+[1.476s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/local_setup.zsh
+[1.477s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/local_setup.dsv
+[1.477s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/package.dsv
+[1.477s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/ament_index/resource_index/packages/msg_interface
+[1.478s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/cmake/msg_interfaceConfig.cmake
+[1.478s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/cmake/msg_interfaceConfig-version.cmake
+[1.478s] -- Installing: /home/hee/ros2_ws/src/install/msg_interface/share/msg_interface/package.xml
+[1.482s] Invoked command in '/home/hee/ros2_ws/src/build/msg_interface' returned '0': CMAKE_PREFIX_PATH=/home/hee/ros2_ws/install/service:/home/hee/ros2_ws/install/robot_controller:/home/hee/ros2_ws/install/activity_002:/home/hee/ros2_ws/install/Activity_002:/opt/ros/humble /usr/bin/cmake --install /home/hee/ros2_ws/src/build/msg_interface

@@ -1,0 +1,24 @@
+[1.149s] Invoking command in '/home/hee/ros2_ws/src/service': PYTHONPATH=/home/hee/ros2_ws/src/build/service/prefix_override:/home/hee/ros2_ws/src/install/service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/service build --build-base /home/hee/ros2_ws/src/build/service/build install --record /home/hee/ros2_ws/src/build/service/install.log --single-version-externally-managed
+[1.536s] running egg_info
+[1.537s] writing ../build/service/service.egg-info/PKG-INFO
+[1.537s] writing dependency_links to ../build/service/service.egg-info/dependency_links.txt
+[1.537s] writing entry points to ../build/service/service.egg-info/entry_points.txt
+[1.538s] writing requirements to ../build/service/service.egg-info/requires.txt
+[1.538s] writing top-level names to ../build/service/service.egg-info/top_level.txt
+[1.541s] reading manifest file '../build/service/service.egg-info/SOURCES.txt'
+[1.542s] writing manifest file '../build/service/service.egg-info/SOURCES.txt'
+[1.542s] running build
+[1.542s] running build_py
+[1.543s] copying service/add_2_int.py -> /home/hee/ros2_ws/src/build/service/build/lib/service
+[1.543s] running install
+[1.543s] running install_lib
+[1.545s] copying /home/hee/ros2_ws/src/build/service/build/lib/service/add_2_int.py -> /home/hee/ros2_ws/src/install/service/lib/python3.10/site-packages/service
+[1.545s] byte-compiling /home/hee/ros2_ws/src/install/service/lib/python3.10/site-packages/service/add_2_int.py to add_2_int.cpython-310.pyc
+[1.546s] running install_data
+[1.547s] copying package.xml -> /home/hee/ros2_ws/src/install/service/share/service
+[1.547s] running install_egg_info
+[1.549s] removing '/home/hee/ros2_ws/src/install/service/lib/python3.10/site-packages/service-0.0.0-py3.10.egg-info' (and everything under it)
+[1.550s] Copying ../build/service/service.egg-info to /home/hee/ros2_ws/src/install/service/lib/python3.10/site-packages/service-0.0.0-py3.10.egg-info
+[1.551s] running install_scripts
+[1.579s] writing list of installed files to '/home/hee/ros2_ws/src/build/service/install.log'
+[1.609s] Invoked command in '/home/hee/ros2_ws/src/service' returned '0': PYTHONPATH=/home/hee/ros2_ws/src/build/service/prefix_override:/home/hee/ros2_ws/src/install/service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/service build --build-base /home/hee/ros2_ws/src/build/service/build install --record /home/hee/ros2_ws/src/build/service/install.log --single-version-externally-managed

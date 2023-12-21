@@ -1,0 +1,28 @@
+[1.877s] Invoking command in '/home/hee/ros2_ws/src/activity_002': PYTHONPATH=/home/hee/ros2_ws/src/build/activity_002/prefix_override:/home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/activity_002 build --build-base /home/hee/ros2_ws/src/build/activity_002/build install --record /home/hee/ros2_ws/src/build/activity_002/install.log --single-version-externally-managed
+[2.278s] running egg_info
+[2.279s] writing ../build/activity_002/activity_002.egg-info/PKG-INFO
+[2.279s] writing dependency_links to ../build/activity_002/activity_002.egg-info/dependency_links.txt
+[2.279s] writing entry points to ../build/activity_002/activity_002.egg-info/entry_points.txt
+[2.279s] writing requirements to ../build/activity_002/activity_002.egg-info/requires.txt
+[2.280s] writing top-level names to ../build/activity_002/activity_002.egg-info/top_level.txt
+[2.283s] reading manifest file '../build/activity_002/activity_002.egg-info/SOURCES.txt'
+[2.284s] writing manifest file '../build/activity_002/activity_002.egg-info/SOURCES.txt'
+[2.285s] running build
+[2.285s] running build_py
+[2.285s] copying activity_002/num_count.py -> /home/hee/ros2_ws/src/build/activity_002/build/lib/activity_002
+[2.285s] copying activity_002/num_pub.py -> /home/hee/ros2_ws/src/build/activity_002/build/lib/activity_002
+[2.286s] running install
+[2.286s] running install_lib
+[2.287s] copying /home/hee/ros2_ws/src/build/activity_002/build/lib/activity_002/num_count.py -> /home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages/activity_002
+[2.287s] copying /home/hee/ros2_ws/src/build/activity_002/build/lib/activity_002/num_pub.py -> /home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages/activity_002
+[2.288s] byte-compiling /home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages/activity_002/num_count.py to num_count.cpython-310.pyc
+[2.289s] byte-compiling /home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages/activity_002/num_pub.py to num_pub.cpython-310.pyc
+[2.289s] running install_data
+[2.290s] running install_egg_info
+[2.293s] removing '/home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages/activity_002-0.0.0-py3.10.egg-info' (and everything under it)
+[2.293s] Copying ../build/activity_002/activity_002.egg-info to /home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages/activity_002-0.0.0-py3.10.egg-info
+[2.294s] running install_scripts
+[2.326s] Installing num_count script to /home/hee/ros2_ws/src/install/activity_002/lib/activity_002
+[2.326s] Installing num_pub script to /home/hee/ros2_ws/src/install/activity_002/lib/activity_002
+[2.326s] writing list of installed files to '/home/hee/ros2_ws/src/build/activity_002/install.log'
+[2.363s] Invoked command in '/home/hee/ros2_ws/src/activity_002' returned '0': PYTHONPATH=/home/hee/ros2_ws/src/build/activity_002/prefix_override:/home/hee/ros2_ws/src/install/activity_002/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/activity_002 build --build-base /home/hee/ros2_ws/src/build/activity_002/build install --record /home/hee/ros2_ws/src/build/activity_002/install.log --single-version-externally-managed

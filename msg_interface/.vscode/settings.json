@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hee/ros2_ws/install/service/lib/python3.10/site-packages",
+        "/home/hee/ros2_ws/build/robot_controller",
+        "/home/hee/ros2_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/hee/ros2_ws/install/activity_002/lib/python3.10/site-packages",
+        "/home/hee/ros2_ws/build/Activity_002",
+        "/home/hee/ros2_ws/install/Activity_002/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hee/ros2_ws/install/service/lib/python3.10/site-packages",
+        "/home/hee/ros2_ws/build/robot_controller",
+        "/home/hee/ros2_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/hee/ros2_ws/install/activity_002/lib/python3.10/site-packages",
+        "/home/hee/ros2_ws/build/Activity_002",
+        "/home/hee/ros2_ws/install/Activity_002/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
