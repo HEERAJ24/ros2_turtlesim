@@ -1,8 +1,0 @@
-{
-  "package_name": "msg_interface",
-  "non_idl_tuples": [
-    "/home/hee/ros2_ws/src/msg_interface:msg/HardwareStatus.msg",
-    "/home/hee/ros2_ws/src/msg_interface:msg/LedStates.msg",
-    "/home/hee/ros2_ws/src/msg_interface:msg/SetLed.srv"
-  ]
-}
